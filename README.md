@@ -1,2 +1,2 @@
-aglasford.gitbub.io
+aglasford.github.io
 ===================
