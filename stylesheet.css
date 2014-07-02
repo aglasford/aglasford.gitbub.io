@@ -1,1 +1,4 @@
-h1 {color: blue;}
+h1 {font-family: Copperplate, "Copperplate Gothic Light", fantasy;}
+h2 {font-family: Copperplate, "Copperplate Gothic Light", fantasy;}
+.bold {font-weight:bold;}
+p {font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;}
